@@ -22,23 +22,23 @@ The ip address and port number of the web server is specified in the configurati
 
 clone the repo 
 
-'''
+```
 git clone https://github.com/nirans2002/Node-MCU-Rover-Flutter.git
-'''
+```
 
 change to the project directory
-'''
+```
 cd Node-MCU-Rover-Flutter
-'''
+```
 
 get packages
 
-'''
+```
 flutter pub get
-'''
+```
 
 run and build 
 
-'''
+```
 flutter run
-'''
+```
