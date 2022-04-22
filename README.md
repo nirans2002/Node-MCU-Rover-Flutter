@@ -1,4 +1,4 @@
-# incepto_rover
+# Node-MCU-Rover-Flutter
 
 An Android application made with flutter for controlling the rover with nodeMCU web server .
 
